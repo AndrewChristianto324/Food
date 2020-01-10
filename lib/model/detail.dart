@@ -30,7 +30,7 @@ class Detail extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.start,
         children: [
           Image.asset(
-            'assets/images/food.png',
+            'assets/images/beef.png',
             height: 250.0,
             width: 412.0,
             fit: BoxFit.fill,
